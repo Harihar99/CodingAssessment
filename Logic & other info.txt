@@ -1,0 +1,21 @@
+Program Logic :-
+
+1.Firstly, stored all the ones and tens words as the static strings(Ones,Tens)
+2.Written a function to convert the given input place by place into words by using if else conditionals.
+   By which we can convert the currency value (Min Value 00, Max Value 9, 99, 99, 999.99) into text.
+3.In the main function, after the initiation of all the needed variables while loop is used to apply some validations.
+Validations:-*validate if the input is a number.
+                         *validate if the input is a greater than or equal to 0.
+                         *check if the input is exeeding the max limit or not.
+                         *check if the input is empty or not.
+Fullfilling these conditions loop breaks.
+4.Then, some if else conditions  to print the numbers after the decimal point as a fraction of 100.
+5.Then, function call to get the converted text in beforeDecimal variable. 
+6.final if condition to get the desired output in the given format.
+7.Printing the final output after connecting all the dots.
+
+Total time taken by me to complete this task :- 1 hour 45 mins
+                                                                                            Thinking and designing :- 30 mins
+                                                                                            Coding :- 1 hour
+                                                                                            Testing :- 15 mins  
+
