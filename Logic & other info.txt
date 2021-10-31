@@ -15,7 +15,7 @@ Fullfilling these conditions loop breaks.
 7.Printing the final output after connecting all the dots.
 
 Total time taken by me to complete this task :- 1 hour 45 mins
-                                                                                            Thinking and designing :- 30 mins
-                                                                                            Coding :- 1 hour
-                                                                                            Testing :- 15 mins  
+Thinking and designing :- 30 mins
+Coding :- 1 hour
+Testing :- 15 mins  
 
